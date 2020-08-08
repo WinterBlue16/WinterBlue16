@@ -1,4 +1,4 @@
-### Hi there 👋
+### Data와 AI로 더 즐거운✨ 세상을 만들고 싶습니다 :two_women_holding_hands:
 
 <!--
 **WinterBlue16/WinterBlue16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
