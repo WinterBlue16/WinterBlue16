@@ -33,7 +33,7 @@ Hello, My name is **Kyunghee Lee**. I want to make the world a joyful place!
 
 ## :mailbox_with_mail: Contact
 
-![](http://img.shields.io/badge/-Tech%20blog-A100FF?style=flat&logo=Github&link=https://hengbokhan.tistory.com/) ![](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:leekh090163@gmail.com) ![](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=mailto:leekh090163@gmail.com)
+[![](http://img.shields.io/badge/-Tech%20blog-A100FF?style=flat&logo=Github)](https://hengbokhan.tistory.com/) [![](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leekh090163@gmail.com) [![](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)]()
 
 
 
